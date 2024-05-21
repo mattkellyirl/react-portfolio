@@ -5,7 +5,7 @@ import logo from "../assets/images/logo.png"; // Adjust the path as necessary
 function Navbar() {
   return (
     // <!--Navigation Bar-->
-    <nav class="fixed top-0 left-0 w-full z-50 border-b bg-white bg-opacity-90">
+    <nav class="static md:fixed md:top-0 md:left-0 md:w-full md:z-50 border-b bg-white md:bg-opacity-90">
       <div class="container mx-auto">
         <div class="max-w-screen-lg flex flex-wrap items-center justify-center md:justify-between mx-auto px-6 py-2">
           <a href="" class="flex items-center space-x-8 rtl:space-x-reverse">
