@@ -5,10 +5,10 @@ function Hero() {
     // Main Container
     <div class="container flex mx-auto h-screen">
       {/* Section Container */}
-      <div class="flex w-full max-w-screen-xl items-center mx-auto p-6 bg-blue-100">
+      <div class="flex w-full max-w-screen-xl items-center mx-auto p-6">
         {/* Content Container */}
-        <div class="flex flex-col md:flex-row mx-auto items-center gap-8 bg-green-100">
-          <div class="max-w-screen-md justify-center bg-yellow-100">
+        <div class="flex flex-col md:flex-row w-full items-center justify-between gap-8">
+          <div class="max-w-screen-lg justify-center">
             <h2 class="mb-4 text-4xl font-bold tracking-tight text-gray-950">
               Hi! I'm Matt Kelly.
             </h2>
