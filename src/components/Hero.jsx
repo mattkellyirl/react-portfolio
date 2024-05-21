@@ -3,12 +3,12 @@ import React from "react";
 function Hero() {
   return (
     // Main Container
-    <div class="container flex mx-auto max-w-full h-screen bg-white">
+    <div class="container flex mx-auto h-screen">
       {/* Section Container */}
-      <div class="container flex items-center mx-auto p-6">
+      <div class="flex w-full max-w-screen-xl items-center mx-auto p-6 bg-blue-100">
         {/* Content Container */}
-        <div class="container flex flex-col lg:flex-row mx-auto items-center justify-center gap-8">
-          <div class="max-w-screen-lg justify-center">
+        <div class="flex flex-col md:flex-row mx-auto items-center gap-8 bg-green-100">
+          <div class="max-w-screen-md justify-center bg-yellow-100">
             <h2 class="mb-4 text-4xl font-bold tracking-tight text-gray-950">
               Hi! I'm Matt Kelly.
             </h2>
