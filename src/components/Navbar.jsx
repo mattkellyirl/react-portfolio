@@ -5,9 +5,9 @@ import logo from "../assets/images/logo.png"; // Adjust the path as necessary
 function Navbar() {
   return (
     // <!--Navigation Bar-->
-    <nav class="border-b">
+    <nav class="fixed top-0 left-0 w-full z-50 border-b bg-white bg-opacity-90">
       <div class="container mx-auto">
-        <div class="max-w-screen-xl flex flex-wrap items-center justify-center md:justify-between mx-auto px-6 py-2">
+        <div class="max-w-screen-lg flex flex-wrap items-center justify-center md:justify-between mx-auto px-6 py-2">
           <a href="" class="flex items-center space-x-8 rtl:space-x-reverse">
             <img src={logo} alt="Logo" class="h-14" />
           </a>
