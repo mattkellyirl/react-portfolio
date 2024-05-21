@@ -2,7 +2,8 @@ import React from "react";
 
 function Contact() {
   return (
-    <div class="h-screen container flex flex-row mx-auto justify-between py-16 bg-white"></div>
+    // Main Container
+    <div class="container flex mx-auto max-w-full h-screen bg-white"></div>
   );
 }
 
