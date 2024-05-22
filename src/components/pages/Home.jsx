@@ -9,9 +9,15 @@ function Home() {
   return (
     <div>
       <Navbar />
-      <Hero />
-      <Work />
-      <Contact />
+      <section id="hero">
+        <Hero />
+      </section>
+      <section id="work">
+        <Work />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
       <Footer />
     </div>
   );

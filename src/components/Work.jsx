@@ -4,7 +4,7 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 function Work() {
   return (
     // Main Container
-    <div class="container flex mx-auto max-w-full h-auto md:h-screen bg-gray-100">
+    <div class="container flex mx-auto max-w-full h-auto lg:h-screen bg-gray-100">
       {/* Section Container */}
       <div class="flex flex-col w-full max-w-screen-lg justify-center mx-auto py-16 px-6">
         {/* Content Container */}
