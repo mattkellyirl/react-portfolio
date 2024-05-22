@@ -13,13 +13,13 @@ function Contact() {
             <h2 class="mb-4 text-4xl font-bold tracking-tight text-gray-950">
               Let's Talk!
             </h2>
-            <p class="mb-4 tracking-tight font-medium text-gray-950">
+            <p class="mb-4 tracking-tight text-md font-medium text-gray-950">
               0419 836 646
             </p>
-            <p class="mb-4 tracking-tight font-medium text-gray-950">
+            <p class="mb-4 tracking-tight text-md font-medium text-gray-950">
               mattkellyvisual@gmail.com
             </p>
-            <p class="mb-4 tracking-tight font-medium text-gray-950">
+            <p class="mb-4 tracking-tight text-md font-medium text-gray-950">
               PO BOX 530,<br></br>Hahndorf 5245,<br></br>South Australia
             </p>
 

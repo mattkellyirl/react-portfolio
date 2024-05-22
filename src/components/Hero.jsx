@@ -5,14 +5,14 @@ function Hero() {
     // Main Container
     <div class="container flex mx-auto h-auto md:h-screen">
       {/* Section Container */}
-      <div class="flex w-full max-w-screen-lg items-center mx-auto p-6">
+      <div class="flex w-full max-w-screen-lg items-center mx-auto py-16 px-6">
         {/* Content Container */}
         <div class="flex flex-col md:flex-row w-full items-center justify-between gap-8">
           <div class="max-w-screen-lg justify-center">
             <h2 class="mb-4 text-4xl font-bold tracking-tight text-gray-950">
               Hi! I'm Matt Kelly.
             </h2>
-            <p class="mb-4 font-light text-gray-950">
+            <p class="mb-4 text-md font-light text-gray-950">
               I'm a Full Stack Developer, having recently completed my
               certificate from The University of Adelaide. My technical
               expertise includes skills in modern web technologies such as
@@ -21,7 +21,7 @@ function Hero() {
               and am proficient in Adobe Creative Suite programs such as After
               Effects, Premiere Pro, Illustrator, InDesign and Photoshop.
             </p>
-            <p class="mb-4 font-light text-gray-950">
+            <p class="mb-4 text-md font-light text-gray-950">
               Outside of tech, I'm a qualified light vehicle mechanic, having
               completed my 4 year apprenticeship at a performance vehicle
               dealership in the Adelaide Hills. Motorsport is my passion, and
@@ -30,7 +30,7 @@ function Hero() {
               driver myself and as a result, I'm highly competitive in
               everything that I do.
             </p>
-            <p class="font-medium text-gray-950">
+            <p class="text-md font-medium text-gray-950">
               From reading this, you have probably realised that I love making
               things, building things and understanding why and how they work.
               If you did, I'd love to work with you!
