@@ -50,7 +50,9 @@ function Hero() {
             <span class="text-sm text-gray-400">Full Stack Developer</span>
             <div class="mt-4 flex md:mt-6">
               <a
-                href="#"
+                href="/matt-kelly.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 class="inline-flex items-center rounded-lg bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white transition-colors duration-300 hover:bg-indigo-800"
               >
                 <svg
