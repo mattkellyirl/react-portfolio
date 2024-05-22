@@ -97,7 +97,7 @@ function Work() {
             </div>
             {/* Work Container */}
             <div class="flex flex-col w-72 h-72 border border-gray-200 rounded-lg bg-white p-4 transform transition-transform duration-300 hover:scale-105">
-              <a href="#">
+              <a href="https://mattkellyirl.github.io/weather-dashboard/">
                 <img
                   class="rounded-lg"
                   src="/weather-dashboard.png"
@@ -105,7 +105,7 @@ function Work() {
                 />
               </a>
               <div class="flex flex-col flex-grow mt-4">
-                <a href="#">
+                <a href="https://mattkellyirl.github.io/weather-dashboard/">
                   <h5 class="text-start text-md font-bold tracking-tight text-gray-950">
                     Weather Dashboard
                   </h5>
@@ -117,7 +117,7 @@ function Work() {
 
                 <div class="flex items-center justify-between mt-auto">
                   <a
-                    href="https://github.com/mattkellyirl"
+                    href="https://github.com/mattkellyirl/weather-dashboard"
                     class="text-2xl text-gray-950 hover:text-indigo-800 transition-colors duration-300"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -126,7 +126,7 @@ function Work() {
                   </a>
 
                   <a
-                    href="https://github.com/mattkellyirl"
+                    href="https://mattkellyirl.github.io/weather-dashboard/"
                     class="text-xl text-gray-950 hover:text-indigo-800 transition-colors duration-300"
                     target="_blank"
                     rel="noopener noreferrer"
