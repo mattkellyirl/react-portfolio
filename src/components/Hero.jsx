@@ -3,7 +3,7 @@ import React from "react";
 function Hero() {
   return (
     // Main Container
-    <div class="container flex mx-auto h-screen">
+    <div class="container flex mx-auto h-auto md:h-screen">
       {/* Section Container */}
       <div class="flex w-full max-w-screen-lg items-center mx-auto p-6">
         {/* Content Container */}

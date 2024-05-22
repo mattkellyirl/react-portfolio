@@ -4,7 +4,7 @@ import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 function Contact() {
   return (
     // Main Container
-    <div class="container flex mx-auto h-screen">
+    <div class="container flex mx-auto max-w-full h-screen">
       {/* Section Container */}
       <div class="flex flex-col w-full max-w-screen-lg justify-center mx-auto p-6">
         {/* Content Container */}
